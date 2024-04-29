@@ -25,5 +25,5 @@ seaborn==0.13.1
 sentence-transformers==2.2.2
 sentencepiece==0.1.99
 streamlit==1.29.0
-torch==2.1.2
+torch==2.3.0
 transformers==4.36.2
